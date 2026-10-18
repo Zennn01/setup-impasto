@@ -1,0 +1,14 @@
+   # Cache & log                                                                                      
+    *.log                                                                                              
+    *.sqlite3                                                                                          
+    *.db                                                                                               
+    cache/                                                                                             
+    .cache/                                                                                            
+                                                                                                       
+    # Catatan pribadi dari widget                                                                      
+    notes.json                                                                                         
+    tasks.json                                                                                         
+                                                                                                       
+    # Rahasia / Credential                                                                             
+    .env                                                                                               
+    *.key
